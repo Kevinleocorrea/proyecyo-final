@@ -142,7 +142,7 @@ h2{
     margin-top: 10px;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 990px) {
     .encabezado{
         display: grid;
         grid-template-columns: 15% 70% 6% 9%;
